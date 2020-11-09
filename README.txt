@@ -1,8 +1,8 @@
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 % Supplementary material (Matlab Code) for the paper:
-%   S.Papaioannou et al, "A framework for UAV-based 3D Search Planning"
+%   S.Papaioannou et al, "Towards Automated 3D Search Planning for Emergency Response Missions"
 %   submited to the Journal of Intelligent & Robotic Systems (Springer)               
-%------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------------------------
 % License
 % Copyright (c) 2020, Savvas Papaioannou, KIOS CoE
 % All rights reserved.
